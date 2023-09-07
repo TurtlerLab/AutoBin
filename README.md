@@ -5,6 +5,7 @@
 1. Checks %systemdrive%\Windows\Temp and %userprofile%\AppData\Local\Temp
 2. Puts all contents from those folders and places them in the recycle bin
 3. Deletes contents of the recycle bin while skipping the confirmation interface.
+4. Program closes.
 
 # Problem(s):
 
