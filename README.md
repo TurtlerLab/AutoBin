@@ -11,7 +11,6 @@
 
 1. Not adapted for iOS
 2. Windows defender detects program as trojan
-3. Not tested on Windows 11
 
 # Additional:
 
