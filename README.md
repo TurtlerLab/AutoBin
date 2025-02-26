@@ -9,7 +9,7 @@
 
 # Problem(s):
 
-1. Not adapted for iOS
+1. Not tested or adapted for iOS or Linux.
 2. Windows defender detects program as trojan
 
 # Additional:
